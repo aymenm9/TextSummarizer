@@ -30,19 +30,19 @@ Here’s the file structure of the application:
         ├── text1o.txt
         └── text_rank.py
     ```
-- **README.md**: This file you're reading.
-- **project/**: The folder containing the main scripts of the application.
-    - **`__init__.py`**: Initialization of the package.
-    - **app_argv.py**: Defines the arguments and options for the program's CLI.
-    - **choice_algo.py**: Contains logic to select the summarization algorithm.
-    - **file_io.py**: Handles reading from and writing to files.
-    - **lsa.py**: Implements Latent Semantic Analysis for text summarization.
-    - **luhn.py**: Implements Luhn's summarization algorithm.
-    - **main.py**: The main script that processes input, selects algorithms, and outputs the summary.
-    - **max.py**: Handles sentence-level summarization using specific limits.
-    - **text1.txt**: Input file used for testing summarization.
-    - **text1o.txt**: Output file containing the summarized text.
-    - **text_rank.py**: Implements the TextRank algorithm for text summarization.
+- *README.md*: This file you're reading.
+- *project/*: The folder containing the main scripts of the application.
+    - *`__init__.py`*: Initialization of the package.
+    - *app_argv.py*: Defines the arguments and options for the program's CLI.
+    - *choice_algo.py*: Contains logic to select the summarization algorithm.
+    - *file_io.p**: Handles reading from and writing to files.
+    - *lsa.py*: Implements Latent Semantic Analysis for text summarization.
+    - *luhn.py*: Implements Luhn's summarization algorithm.
+    - *main.py*: The main script that processes input, selects algorithms, and outputs the summary.
+    - *max.py*: Handles sentence-level summarization using specific limits.
+    - *text1.txt*: Input file used for testing summarization.
+    - *text1o.txt*: Output file containing the summarized text.
+    - *text_rank.py*: Implements the TextRank algorithm for text summarization.
 
 #### how to use it
 ##### recomended 
