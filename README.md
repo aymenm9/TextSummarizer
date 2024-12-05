@@ -13,6 +13,7 @@
 ### File Structure
 
 Here’s the file structure of the application:
+
     ```bash
     .
     ├── README.md
