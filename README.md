@@ -2,7 +2,8 @@
 
 ## Description
 
-"Créez une application pour gérer une collection de musique, où chaque morceau est stocké dans une table de hachage selon le titre ou l'artiste."
+" Développez une application qui résume automatiquement un texte en
+utilisant des techniques d'extraction."
 
 ### Features
 
